@@ -1,0 +1,6 @@
+a=raw_input("Enter the value of a:")
+b=raw_input("Enter the value of b:")
+c=raw_input("Enter the value of c:")
+print "Memory address of a:", id(a)
+print "Memory address of b:", id(b)
+print "Memory address of c:", id(c)
